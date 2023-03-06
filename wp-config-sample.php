@@ -62,6 +62,7 @@ define( 'NONCE_SALT',       'put your unique phrase here' );
 //test3
 // test 4
 // test 5
+// test 6
 /**#@-*/
 
 /**
